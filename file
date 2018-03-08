@@ -1,0 +1,13 @@
+class fan {
+public static void main (String args[]){
+int a = 2;
+if(a/2==1)
+{
+System.out.println("Fan is running");
+}
+else
+{
+System.out.println("Fan is not running");
+}
+}
+}
